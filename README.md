@@ -12,10 +12,8 @@ Function, that display different data types on terminal or file.
 - #Flags management: *, $ and ’.
 
 ## Examples:
-```
-code block
-```
-
-```php
-$foo = new BarClass();
+```javascript
+function test() {
+    console.log("notice the blank line before this function?");
+}
 ```
