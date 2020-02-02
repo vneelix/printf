@@ -9,6 +9,6 @@ Function, that display different data types on terminal or file.
 - #Manage the minimum field-width
 - #Manage the precision
 - #Manage binary and quaternary systems:
-  //code c
+  //c code
   printf("%b");
   printf("%q");
