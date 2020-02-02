@@ -9,11 +9,11 @@ Function, that display different data types on terminal or file.
 - #Manage the minimum field-width.
 - #Manage the precision.
 - #Manage binary and quaternary systems.
+- #Manage write in fd.
 - #Flags management: *, $ and ’.
 
 ## Examples:
 ```c
-function test() {
-    console.log("notice the blank line before this function?");
-}
+printf("%d"); \\binary
+printf("%q"); \\quaternary
 ```
