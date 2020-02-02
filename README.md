@@ -15,6 +15,7 @@ Function, that display different data types on terminal or file.
 ```
 code block
 ```
-```c
+
+```c code
 $foo = new BarClass();
 ```
