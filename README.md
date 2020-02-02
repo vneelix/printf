@@ -12,9 +12,11 @@ Function, that display different data types on terminal or file.
 - #Flags management: *, $ and ’.
 
 ## Examples:
+```
 code block
 ```
 
 ```php
 //php code
 $foo = new BarClass();
+```
