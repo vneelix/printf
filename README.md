@@ -14,7 +14,7 @@ Function, that display different data types on terminal or file.
 
 ## Examples:
 - Basically, the call is similar to the standard printf function, but there are several additional features.
-- Syntax : ft_printf("%[fd][flags][width][.precision][length]type"). Flag "~" indicate writing in a file descriptor.\
+- Syntax : ft_printf("%[parameters][flags][width][.precision][length]type"). Parameter "~" indicate writing in a file descriptor.\
 Attention, fd must be firstly in list of parameters.
 ```c
 printf("%d", 8); \\binary (display 8 at binary num)
