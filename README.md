@@ -12,7 +12,7 @@ Function, that display different data types on terminal or file.
 - #Flags management: *, $ and ’.
 
 ## Examples:
-```javascript
+```c
 function test() {
     console.log("notice the blank line before this function?");
 }
