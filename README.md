@@ -11,7 +11,10 @@ Function, that display different data types on terminal or file.
 - #Manage binary and quaternary systems.
 - #Flags management: *, $ and ’.
 
-# Examples:
+## Examples:
 code block
-//c code
-printf("Hello");
+
+
+php
+//php code
+$foo = new BarClass();
