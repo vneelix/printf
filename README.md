@@ -13,5 +13,6 @@ Function, that display different data types on terminal or file.
 
 ## Examples:
 ```
+\\c code
 $foo = new BarClass();
 ```
