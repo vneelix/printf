@@ -19,7 +19,7 @@ INCL = ft_printf.h
 
 INCL_PATH = ./
 
-CFLAGS = -Wall -Wextra -Werror -I$(INCL_PATH) -c
+CFLAGS = -Wall -Wextra -Werror -I$(INCL_PATH) -c -O2
 
 NAME = libftprintf.a
 
