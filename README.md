@@ -13,8 +13,8 @@ Function, that display different data types on terminal or file.
 
 ## Examples:
 code block
+```
 
-
-php
+```php
 //php code
 $foo = new BarClass();
