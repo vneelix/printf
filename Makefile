@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: vneelix <vneelix@student.42.fr>            +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/10/20 19:48:16 by vneelix           #+#    #+#              #
-#    Updated: 2019/11/11 14:53:08 by vneelix          ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 VPATH = ./decimal ./not_decimal ./double ./other_func
 
 OBJS = ft_decimal.o ft_ltostr.o ft_numlen.o ft_ultostr.o ft_not_decimal.o ft_string.o\
