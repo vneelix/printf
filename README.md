@@ -1,16 +1,16 @@
 # printf
 Function, that display different data types on terminal or file.
 
-- #Manage the following conversions: csp.
-- #Manage the following conversions: diouxX with the following flags: hh, h, l and ll.
-- #Manage the following conversion: f with the following flags: l and L.
-- #Manage %%.
-- #Manage the flags #0-+ and space.
-- #Manage the minimum field-width.
-- #Manage the precision.
-- #Manage binary and quaternary systems.
-- #Manage write in fd.
-- #Flags management: *, $ and ’.
+- #Realised the following conversions: csp.
+- #Realised the following conversions: diouxX with the following flags: hh, h, l and ll.
+- #Realised the following conversion: f with the following flags: l and L.
+- #Realised %%.
+- #Realised the flags #0-+ and space.
+- #Realised the minimum field-width.
+- #Realised the precision.
+- #Realised binary and quaternary systems.
+- #Realised write in fd.
+- #Flags management: *.
 
 ## Examples:
 - Basically, the call is similar to the standard printf function, but there are several additional features.
