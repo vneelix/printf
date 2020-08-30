@@ -18,7 +18,7 @@ Function, that display different data types on terminal or file.
 Parameter "~" indicate writing in a file descriptor.\
 Attention, fd must be firstly in list of parameters.
 ```c
-printf("%d", 8); \\binary (display 8 at binary num)
+printf("%b", 8); \\binary (display 8 at binary num)
 printf("%q", 16); \\quaternary (display 16 at quaternary num)
 printf("%~d", fd, 10); \\fd (write 10 in file, that have file descriptor - fd in system)
 ```
